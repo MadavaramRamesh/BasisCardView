@@ -1,0 +1,3 @@
+${PODS_ROOT}/Target Support Files/Pods-BasisCardView-BasisCardViewUITests/Pods-BasisCardView-BasisCardViewUITests-frameworks.sh
+${BUILT_PRODUCTS_DIR}/Alamofire/Alamofire.framework
+${BUILT_PRODUCTS_DIR}/ReachabilitySwift/Reachability.framework
